@@ -1,4 +1,3 @@
-![An image](ctfflagLOGO.png)
 # CTF Report Page
 
 This page is dedicated to the documentation of a VIVES University Final Year CTF project by Michael Kathofer.
