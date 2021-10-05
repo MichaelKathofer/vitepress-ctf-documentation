@@ -62,3 +62,31 @@ Attaching the option **-d** to the **docker-compose up** statement runs the Dock
 :::
 
 5) Setup is completed.
+
+## Explore existing Feature Set
+After the correct setup and exploring the features that come out of the box, many of our [should haves](./#Introduction) are already implemented.
+Furthermore, the CTFd platform provides additional plugins to solve further feature requests of some the remaining form
+the initial [feature request](./#Introduction) brainstorming session.
+### Updated ToDo List after the initial setup
+The following list is the result of a brainstorming session from our 3. weekly
+Meeting. The following table documents in-depth feature requests and sums up the needed ToDo's for this project:
+
+| Updated ToDo's                                             |
+| :--------------------------------------------------------- |
+| The possibility to form user groups (That resemble classes)|
+| Better statics with deeper insights                        |
+| Multiple questions within one challenge                    |
+| Custom theme for an enhanced visual experience             |
+
+| Additional feature requests                                |
+| :---------------------------------------------------------------------- |
+| Question type: order a certain arrangement of words or information      |
+| Question type: hangman inspired                                         |
+| Send grid for recovering passwords                                      |
+| Flags should work with regex                                            |
+| Input automatically formatted to lower cap for example                  |
+| Simpler setup-process for challenges (Setup possible within one screen) |
+| Additional input field to indicate the flag structure                   |
+
+The Proof of Concept gave insights on open issues that need to be solved. The sum of those is displayed in the 'Updated ToDo's' table.
+The next step is to sequentially implement these ToDo's.

@@ -14,14 +14,14 @@ This concept forms the basis for this Project.
 ## Defining features
 Categorizing features according to their relevancy for the success of the project:
 
-| Must haves                                                 | Should haves                                  | Nice to haves  |
-| :--------------------------------------------------------: |:---------------------------------------------:|:--------------:|
-| ultiple modules that each can contain different challenges | system to organize classes (form user groups) | dark mode      |
-| editable questions                                         | different question types                      |   achievements |
-| score system for optional grading                          | level / ranking system                        |  results to PDF/CSV download|
-| good usability                                             | option for multiple tries                     | terminal integration|
-|access control                                              | timer function                                | Email notification system|
-|different user groups and privileges                        |                                               | mobile access |
+| Must haves                                                 | Should haves                                  | Nice to haves              |
+| :--------------------------------------------------------: |:---------------------------------------------:|:--------------------------:|
+| Multiple modules that each can contain different challenges| system to organize classes (form user groups) | dark mode                  |
+| editable questions                                         | different question types                      | achievements               |
+| score system for optional grading                          | level / ranking system                        | results to PDF/CSV download|
+| good usability                                             | option for multiple tries                     | terminal integration       |
+|access control                                              | timer function                                | Email notification system  |
+|different user groups and privileges                        |                                               | mobile access              |
 |analytics                                                   ||
 |view result page                                            ||
 |password reset                                              ||
