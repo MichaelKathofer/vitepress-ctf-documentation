@@ -1,6 +1,6 @@
 # CTF Report Page
 
-This page is dedicated to the documentation of a VIVES University Final Year CTF project by Michael Kathofer.
+This page is dedicated to the documentation of a VIVES University Final Year CTF :triangular_flag_on_post: project by Michael Kathofer.
 
 
 # Introduction
@@ -13,47 +13,32 @@ This concept forms the basis for this Project.
 
 ## Defining features
 Categorizing features according to their relevancy for the success of the project:
-### Must haves
-- multiple modules that each can contain different challenges
-- editable questions
-- score system for optional grading
-- good usability
-- access control
-- different user groups and privileges
-- analytics
-- view result page
-- password reset
 
+| Must haves                                                 | Should haves                                  | Nice to haves  |
+| :--------------------------------------------------------: |:---------------------------------------------:|:--------------:|
+| ultiple modules that each can contain different challenges | system to organize classes (form user groups) | dark mode      |
+| editable questions                                         | different question types                      |   achievements |
+| score system for optional grading                          | level / ranking system                        |  results to PDF/CSV download|
+| good usability                                             | option for multiple tries                     | terminal integration|
+|access control                                              | timer function                                | Email notification system|
+|different user groups and privileges                        |                                               | mobile access |
+|analytics                                                   ||
+|view result page                                            ||
+|password reset                                              ||
 
-### Should haves
-- different question types
-- level / ranking system
-- option for multiple tries
-- timer function
-- system to organize classes (form user groups)
-  :::
-
-###  Nice to haves
-- dark mode
-- achievements
-- results to PDF/CSV download
-- terminal integration
-- Email notification system
-- mobile access
 
 ## Defining pages
 ### Sign in / Register
-To manage access control, enable login from different devices and to assign data to their users.
+To manage access control, enable login from different devices and assign data to their users.
 
 ### Dashboard
 Helps users track the progress: How many challenges they’ve completed,
-the number of lessons left in the current course, learning streak...
-It therefore provides an overview of all challenges with each status (red)
-
+the number of lessons left in the current course, learning streaks and others.
+It, therefore, provides an overview of all challenges with each status.
 
 ### Leaderboard
-Provides an overall ranking to show users their positioning.
+Provides an overall ranking to show users their positioning compared to other participants.
 
 ### Question page
-Tells the user the task and provides an input field for the flag after the challenge as been solved.
+Tells the user the task and provides an input field for the flag after the challenge has been solved.
 It also provides the option for hints if users get stuck.
