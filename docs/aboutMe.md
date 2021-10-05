@@ -1,5 +1,6 @@
 # About me:
 
 ## Michael Kathofer
-Web Business & Technology Student.
-Contact me: michael.kathofer@gmail.com
+Web Business & Technology Student from Tyrol/Austria.
+### Github: https://github.com/MichaelKathofer 
+### Contact me: michael.kathofer@gmail.com
