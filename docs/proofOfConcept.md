@@ -3,6 +3,7 @@
 ## Installation documentation Step by Step
 
 ###     Solution 1
+You can clone the repo, manually install its dependencies using pip on your server, and also configure MySQL and Redis databases manually.
 
 1) Cloning git repository with
    ```bash
@@ -40,6 +41,7 @@ ERROR: No matching distribution found for cmarkgfm==0.5.0
   => Then tried step 6) again.
 
 ### Solution 2
+You can use the docker-compose.yml file present on the CTFd repo to conveniently deploy each component on your server in separate containers.
 
 1) Install Docker and Docker Compose.
 ::: info

@@ -1,5 +1,5 @@
 # About me:
 
 ## Michael Kathofer
-
-![Michael Kathofer](public/LinkindPb.jpg)
+Web Business & Technology Student
+Contact me: michael.kathofer@gmail.com
