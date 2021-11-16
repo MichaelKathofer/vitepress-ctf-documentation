@@ -10,7 +10,9 @@ module.exports = {
             {text: 'Introduction', link: '/'},
             {text: 'Research', link: '/research'},
             {text: 'Proof of Concept', link: '/proofOfConcept'},
-            {text: 'Plugins', link: '/plugins'},
+            {text: 'Plugins overview', link: '/plugins'},
+            {text: 'Timer Plugin', link: '/timerPlugin'},
+            {text: 'Theme', link: '/theme'},
         ]
     },
 }
