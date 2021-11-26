@@ -71,4 +71,13 @@ CTFd is looking into the Plugin folder, after the internal routs are established
 
 - config.json: Includes attributes like the name of the plugin or the route. in our case the name is TimerProgressbar.
 
-## Combining concept and Plugin
+## create challenge adaptation
+At this part there must be an input field when creating the challenge, where the Administrator can enter in the amount of time.
+### Before
+![An image](/createChallengeScreen1.png)
+### After
+At the bottom there is the newly added input field:
+![An image](/createChallengeScreen2.png)
+## error handling
+After the implementation and the connection to the Database, errors started to occur.
+![An image](/fehler1.png)

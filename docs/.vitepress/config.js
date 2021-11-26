@@ -10,9 +10,11 @@ module.exports = {
             {text: 'Introduction', link: '/'},
             {text: 'Research', link: '/research'},
             {text: 'Proof of Concept', link: '/proofOfConcept'},
+            {text: 'CTFd Framework', link: '/ctfdframework'},
             {text: 'Plugins overview', link: '/plugins'},
             {text: 'Timer Plugin', link: '/timerPlugin'},
             {text: 'Theme', link: '/theme'},
+            {text: 'Roadmap', link: '/roadmap'},
         ]
     },
 }
