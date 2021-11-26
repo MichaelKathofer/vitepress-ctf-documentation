@@ -1,4 +1,4 @@
-# CTF Report Page
+![An image](/HeroForVIte.png)
 
 This page is dedicated to the documentation of a VIVES University Final Year CTF :triangular_flag_on_post: project by Michael Kathofer.
 

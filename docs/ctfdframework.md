@@ -123,10 +123,10 @@ the object model and database schema to develop in a cleanly decoupled way from 
 
 # Resources
 ## Flask 
-https://flask.palletsprojects.com/en/2.0.x/ 
-https://www.tutorialspoint.com/flask/flask_overview.htm
-https://en.wikipedia.org/wiki/Flask_(web_framework)
+#### https://flask.palletsprojects.com/en/2.0.x/ 
+#### https://www.tutorialspoint.com/flask/flask_overview.htm
+#### https://en.wikipedia.org/wiki/Flask_(web_framework)
 ## Jinja
-https://pypi.org/project/Jinja2/
+#### https://pypi.org/project/Jinja2/
 ## Bootstrap
-https://getbootstrap.com/
+#### https://getbootstrap.com/
