@@ -2,7 +2,11 @@
 
 This page is dedicated to the documentation of a VIVES University Final Year CTF :triangular_flag_on_post: project by Michael Kathofer.
 
-![An image](/Hero2ForVite.png)
+# Introduction
+This project aims to build a CTF learning platform. CTF stands for Capture the Flag and is a well-known formate in cybersecurity competitions.
+The objective for participants is to enter in flags, which are embedded within each challenge.
+The scoring system is based on how long it takes to enter the flag, and also how many hints they requested.
+This concept forms the basis for this Project. Github: https://github.com/MichaelKathofer/CTF-Project-Vives
 
 
 ## Defining features
