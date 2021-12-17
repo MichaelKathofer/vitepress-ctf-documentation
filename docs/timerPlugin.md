@@ -81,3 +81,23 @@ At the bottom there is the newly added input field:
 ## error handling
 After the implementation and the connection to the Database, errors started to occur.
 ![An image](/fehler1.png)
+## Second iteration
+This version includes the time left and is now dynamic to the "TimeInMinutes" variable.
+```js
+	function progress(timeleft, timetotal, $progressBar) {
+
+    	var widthProgress = timeleft * $progressBar.width() / timetotal;
+
+    	$progressBar.find('div').animate({ width: widthProgress }, 500).html(Math.floor(timeleft/60) + ":"+ timeleft%60);
+    	if(timeleft > 0) {
+        	setTimeout(function() {
+            	progress(timeleft - 1, timetotal, $progressBar);
+        	}, 1000);
+    	}
+		else {
+			$('.challenge-submit').trigger('click');
+		}
+	};
+
+	progress(TimeInMinutes, TimeInMinutes, $('#progressBar'));
+```

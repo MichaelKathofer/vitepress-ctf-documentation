@@ -13,8 +13,12 @@ module.exports = {
             {text: 'CTFd Framework', link: '/ctfdframework'},
             {text: 'Plugins overview', link: '/plugins'},
             {text: 'Timer Plugin', link: '/timerPlugin'},
+            {text: 'Multiple question Plugin', link: '/multiplePlugin'},
+            {text: 'quiz Plugin', link: '/quizPlugin'},
+            {text: 'User group feature', link: '/userGroup'},
             {text: 'Theme', link: '/theme'},
             {text: 'Roadmap', link: '/roadmap'},
+            {text: 'Tutorial content', link: '/tutorial'},
         ]
     },
 }
