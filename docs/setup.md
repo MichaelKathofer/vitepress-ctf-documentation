@@ -5,7 +5,8 @@
 1) Cole the GitHub repository from here: https://github.com/MichaelKathofer/CTF-Project-Vives-main
 2) use docker: docker-compose up
 3) Start with the Set-up instructions: Important points are 1) User mode 2) adding the logo from Vives
-   -> Logo available here: "Logo.png" + "small_icon.png"
+   -> Logo available in "CTFd>public/contentForPages": "Logo.png" + "small_icon.png"
+   ![An image](/setup4.png)
 
 ![An image](/setup1.png)
 
