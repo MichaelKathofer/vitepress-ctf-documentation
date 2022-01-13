@@ -3,7 +3,9 @@ module.exports = {
     themeConfig: {
         nav:[
             {text: 'Home', link: '/'},
+            {text: 'Set up', link: '/setup'},
             {text: 'About', link: '/aboutMe'},
+
 
         ],
         sidebar: [
@@ -11,14 +13,16 @@ module.exports = {
             {text: 'Research', link: '/research'},
             {text: 'Proof of Concept', link: '/proofOfConcept'},
             {text: 'CTFd Framework', link: '/ctfdframework'},
-            {text: 'Plugins overview', link: '/plugins'},
+            {text: 'Plugins Overview', link: '/plugins'},
             {text: 'Timer Plugin', link: '/timerPlugin'},
-            {text: 'Multiple question Plugin', link: '/multiplePlugin'},
-            {text: 'quiz Plugin', link: '/quizPlugin'},
-            {text: 'User group feature', link: '/userGroup'},
+            {text: 'Multiple Choice Plugin', link: '/multiplePlugin'},
+            {text: 'User Group Plugin', link: '/userGroupPlugin'},
             {text: 'Theme', link: '/theme'},
             {text: 'Roadmap', link: '/roadmap'},
-            {text: 'Tutorial content', link: '/tutorial'},
+            {text: 'Tutorial Content', link: '/tutorial'},
+            {text: 'Common Errors', link: '/errors'},
+            {text: 'Outlook', link: '/outlook'},
+
         ]
     },
 }

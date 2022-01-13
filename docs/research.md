@@ -1,3 +1,4 @@
+![An image](/Research_banner.png)
 # Research
 Possible solutions that fit our needs can be categorized into three groups.
 Each get a grade from **1** (best) to **5** (worst):

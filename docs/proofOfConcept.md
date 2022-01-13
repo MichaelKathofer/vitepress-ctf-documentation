@@ -1,5 +1,5 @@
+![An image](/ProofOfConcept_banner.png)
 # Proof of Concept
-
 ## Installation documentation Step by Step
 
 ###     Solution 1
@@ -21,12 +21,12 @@ ERROR: Could not find a version that satisfies the requirement cmarkgfm==0.5.0 (
 ERROR: No matching distribution found for cmarkgfm==0.5.0
 :::
 
-5)	Changing the `cmarkgfm´ version to 0.6.0 in the config file fixed it.
+5) Changing the `cmarkgfm´ version to 0.6.0 in the config file fixed it.
 
 6) ```bash
    python serve.py
 
-  => This command to switches into debugging mode
+  => This command switches into debugging mode
 
   ::: danger Error
   * Importing gevent and monkey patching. Use -disable-gevent to disable.
@@ -52,9 +52,9 @@ There is no need to download Docker Compose if you download the Desktop Applicat
    ```bash
    git clone https://github.com/CTFd/CTFd.git
 
-3) Modify the 'docker-compose.yml' file to your liking. It includes options to name a existing Database URL.
+3) Modify the 'docker-compose.yml' file to your liking. It includes options to name an existing Database URL.
 
-4) Official documentation page suggested "docker-compose up". This lead to errors and the build failed.
+4) Official documentation page suggested, "docker-compose up". This lead to errors and the build failed.
    ```bash
    docker-compose up -d
 ::: info
@@ -65,7 +65,7 @@ Attaching the option **-d** to the **docker-compose up** statement runs the Dock
 
 ## Explore existing Feature Set
 After the correct setup and exploring the features that come out of the box, many of our [should haves](./#Introduction) are already implemented.
-Furthermore, the CTFd platform provides additional plugins to solve further feature requests of some the remaining form
+Furthermore, the CTFd platform provides additional plugins to solve further feature requests of some of the remaining form
 the initial [feature request](./#Introduction) brainstorming session.
 ### Updated ToDo List after the initial setup
 The following list is the result of a brainstorming session from our 3. weekly
